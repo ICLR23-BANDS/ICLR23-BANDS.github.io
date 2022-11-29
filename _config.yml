@@ -1,0 +1,26 @@
+title:       Backdoor Attacks and Defenses in Machine Learning (BANDS) 
+description: Workshop at ICLR 2023, Virtual
+
+# timezone: Europe/Zurich
+
+navigation:
+  Home: "/"
+  Call for Papers: "/cfp"
+  # Accepted Papers: "/papers"
+  Schedule: "/schedule"
+  Speakers: "./speakers"
+  Organizers: "./organizers"
+  Program Committee: "./committee"
+  Related Workshops: "./related"
+  # FAQ: "/faq"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
