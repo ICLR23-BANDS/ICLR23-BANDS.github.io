@@ -28,3 +28,26 @@ The workshop will employ a double-anonymous review process. Each submission will
 
 We only consider submissions that haven’t been published in any peer-reviewed venue, including ICLR 2023 conference. We allow dual submission with other workshops or conferences. The workshop is non-archival and will not have any official proceedings. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot.
 
+# Important Dates
+
+**Submission Deadline**	January 25, 2023, Anywhere on Earth (AoE)  
+**Author Notification**	March 3, 2023, Anywhere on Earth (AoE)  
+**Camera Ready Deadline**	April 25, 2023, Anywhere on Earth (AoE)  
+
+# Author Instructions
+
+Papers should be submitted to OpenReview:  
+[https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS](https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS)
+
+Submitted papers should have up to 4 pages (excluding references, acknowledgements, or appendices). Please use the ICLR submission template provided at:  
+[https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip)
+
+Submissions must be anonymous following ICLR double-blind reviewing guidelines, ICLR Code of Conduct and Code of Ethics. Accepted papers will be hosted on this workshop website but are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.
+
+# Code of Conduct (Drawn from ICLR)
+
+All workshop participants, including authors, are required to adhere to the ICLR code of conduct ([https://iclr.cc/public/CodeOfConduct](https://iclr.cc/public/CodeOfConduct)). All authors of submitted papers are required to read the Code of Conduct, adhere to it, and explicitly acknowledge this during the submission process. The Code of Conduct applies to all conference participation, including paper submission, reviewing, and paper discussion.
+
+# Code of Ethics (Drawn from ICLR)
+
+All workshop participants, including authors, are required to adhere to the ICLR Code of Ethics ([https://iclr.cc/public/CodeOfEthics](https://iclr.cc/public/CodeOfEthics)). All authors of submitted papers are required to read the Code of Ethics, adhere to it, and explicitly acknowledge this during the submission process. The Code of Ethics applies to all conference participation, including paper submission, reviewing, and paper discussion.

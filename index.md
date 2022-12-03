@@ -5,7 +5,7 @@ layout: default
 
 # Overview
 
-| **Date** | TBD |
+| **Date** | May 5, 2023 (9 am - 18:00 pm US Eastern Time) |
 | **Location** | The workshop will be held *virtually*. The internal ICLR workshop website is [here](https://iclr.cc/) (ICLR registration required).|
 
 
