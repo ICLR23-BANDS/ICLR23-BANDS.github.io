@@ -4,7 +4,7 @@ layout: default
 
 # Call for Papers
 
-We invite submissions on any aspect of backdoor attacks and defenses in machine learning, which includes but not limited to:
+We invite submissions on any aspect of backdoor attacks and defenses in machine learning, which includes but is not limited to:
 
 - Novel backdoor attacks against ML systems, including CV, NLP, ML models in cyber-physical systems, etc.
 - Detecting backdoored models under different threat models, such as having limited clean data or no data, no access to model weights, using attack samples, etc.
