@@ -5,6 +5,7 @@ layout: default
 # Related Workshops
 
 - [Trustworthy and Socially Responsible Machine Learning (NeurIPS 2022)](https://tsrml2022.github.io/)
+- [Security and Safety in Machine Learning Systems (ICLR 2021)](https://aisecure-workshop.github.io/aml-iclr2021/)
 - [Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges (CVPR 2021)](https://aisecure-workshop.github.io/amlcvpr2021/)
 - [Adversarial Robustness in the Real World (ICCV 2021)](https://iccv21-adv-workshop.github.io/)
 - [Towards Trustworthy ML: Rethinking Security and Privacy for ML (ICLR 2020)](https://trustworthyiclr20.github.io/)
