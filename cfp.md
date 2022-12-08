@@ -26,7 +26,7 @@ The workshop will employ a double-anonymous review process. Each submission will
 - Relevance to the workshop
 - Societal impacts
 
-We only consider submissions that haven’t been published in any peer-reviewed venue, including ICLR 2023 conference. We allow dual submission with other workshops or conferences. The workshop is non-archival and will not have any official proceedings. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot.
+We only consider submissions that haven’t been published in any peer-reviewed venue, including ICLR 2023 conference. **We allow dual submission with other workshops or conferences. The workshop is non-archival and will not have any official proceedings.** All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot.
 
 ## Important Dates
 
