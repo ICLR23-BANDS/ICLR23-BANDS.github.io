@@ -34,7 +34,8 @@ We only consider submissions that haven’t been published in any peer-reviewed 
 <table class="foo">  
   <tr>
     <td width="30%"><b>Submission Deadline</b></td>
-    <td width="70%">January 25, 2023, Anywhere on Earth (AoE)</td>
+    <td width="70%">
+      <strike>January 25</strike> <b>February 3</b>, 2023, Anywhere on Earth (AoE) <b>Extended!</b></td>
   </tr>
   <tr>
     <td><b>Author notification</b></td>
