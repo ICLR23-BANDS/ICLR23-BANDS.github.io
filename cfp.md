@@ -48,7 +48,19 @@ We only consider submissions that haven’t been published in any peer-reviewed 
 </table>
 
 
-## Author Instructions (Camera Ready)
+## Camera Ready
+
+The final version should be submitted to OpenReview: [https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS](https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS)
+
+The final version should have up to 4 pages (excluding references, acknowledgements, or appendices). It is recommended to use the template provided at: [Download (Latex)](./files/iclr2023.zip)
+
+Or modify the submission latex files as follows:
+
+* Add command "\iclrfinalcopy" in iclr2023_conference.tex
+* Change line 88 in iclr2023_conference.sty to "\lhead{Published at ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning}"
+
+
+## Author Instructions
 
 Papers should be submitted to OpenReview: [https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS](https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS)
 
