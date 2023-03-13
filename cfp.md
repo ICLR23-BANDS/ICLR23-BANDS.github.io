@@ -43,12 +43,12 @@ We only consider submissions that haven’t been published in any peer-reviewed 
   </tr>
   <tr>
     <td><b>Camera ready deadline</b></td>
-    <td>April 25, 2023, Anywhere on Earth (AoE)</td>
+    <td>April 15, 2023, Anywhere on Earth (AoE)</td>
   </tr>
 </table>
 
 
-## Author Instructions
+## Author Instructions (Camera Ready)
 
 Papers should be submitted to OpenReview: [https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS](https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS)
 
