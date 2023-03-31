@@ -52,7 +52,7 @@ We only consider submissions that haven’t been published in any peer-reviewed 
 
 The final version should be submitted to OpenReview: [https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS](https://openreview.net/group?id=ICLR.cc/2023/Workshop/BANDS)
 
-The final version should have up to 4 pages (excluding references, acknowledgements, or appendices). It is recommended to use the template provided at: [Download (Latex)](./files/iclr2023.zip)
+The final version should have up to 4 pages (excluding references, acknowledgements, or appendices). It is recommended to use the template provided at: [Download (LaTeX)](./files/iclr2023.zip)
 
 Or modify the submission latex files as follows:
 
