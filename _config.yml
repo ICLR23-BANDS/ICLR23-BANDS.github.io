@@ -6,7 +6,7 @@ description: Workshop at ICLR 2023, Virtual
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
-  # Accepted Papers: "/papers"
+  Accepted Papers: "/papers"
   Schedule: "/schedule"
   Speakers: "./speakers"
   Organizers: "./organizers"
