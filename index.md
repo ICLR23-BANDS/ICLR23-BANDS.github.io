@@ -39,7 +39,12 @@ Speakers are in alphabetical order by last name.
 |[Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/)<br />Cornell Tech<br />|[Yang Zhang](https://yangzhangalmo.github.io/)<br />CISPA|[Ben Y. Zhao](https://people.cs.uchicago.edu/~ravenben/)<br />UChicago<br />|
 
 # Panelists
-TBA.
+Panelists are in alphabetical order by last name.
+
+|<img src="./assets/images/pin-yu.jpg" alt="Pin-Yu Chen" class="speaker-image"/>|<img src="./assets/images/jia.jpg" alt="Ruoxi Jia" class="speaker-image"/>|<img src="./assets/images/bo_li.jpg" alt="Bo Li" class="speaker-image"/>|
+|[Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/home)<br />IBM Research AI|[Ruoxi Jia](https://ruoxijia.info/)<br />Virginia Tech<br />|[Bo Li](https://aisecure.github.io/)<br />UIUC|
+|<img src="./assets/images/Shmatikov.jpeg" alt="Vitaly Shmatikov" class="speaker-image"/>|<img src="./assets/images/ben.jpg" alt="Ben Y. Zhao" class="speaker-image"/>|
+|[Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/)<br />Cornell Tech<br />|[Ben Y. Zhao](https://people.cs.uchicago.edu/~ravenben/)<br />UChicago<br />|
 
 
 # Best Paper Award
